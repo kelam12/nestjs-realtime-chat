@@ -1,4 +1,4 @@
-# nestjs-realtime-chat
+# Realtime Chat App
 
 A scalable real-time chat application that enables peer-to-peer messaging and group conversations. Built with NestJS for server-side logic, MongoDB for data storage, and WebSockets for instant bidirectional communication.
 
