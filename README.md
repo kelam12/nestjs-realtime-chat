@@ -60,5 +60,5 @@ npm run start:prod
 - Enhanced JWT authentication with Passport
 - Improved WebSocket chat implementation
 
-`**Contributing**
-Contributions are welcome. Feel free to open issues for bug reports, feature suggestions, or submit pull requests for improvements.`
+**Contributing**
+Contributions are welcome. Feel free to open issues for bug reports, feature suggestions, or submit pull requests for improvements.
