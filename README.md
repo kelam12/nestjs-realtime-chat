@@ -55,9 +55,5 @@ npm run start:prod
 - Paginated chat history
 - WebSocket-based live updates
 
-**Recent Updates**
-- Implemented pagination for chat room messages
-- Enhanced JWT authentication with Passport
-- Improved WebSocket chat implementation
 
 
