@@ -8,7 +8,7 @@ A scalable real-time chat application that enables peer-to-peer messaging and gr
 - Room-based group conversations
 - WebSocket integration for low-latency communication
 - MongoDB with Mongoose for data modeling
-- Command-line seeding for initial data
+- Command-line seeding for initial dat
 
 **Technology Stack**
 - **NestJS** - Progressive Node.js framework
